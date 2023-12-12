@@ -54,3 +54,12 @@ body {
 .one {
     color: hsl(0, 0%, 100%);
 }
+
+.three {
+    display: inline-block;
+    border: 5px dotted red;
+}
+
+.four {
+    display: inline-block;
+}
