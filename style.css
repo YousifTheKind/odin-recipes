@@ -57,9 +57,11 @@ body {
 
 .three {
     display: inline-block;
-    border: 5px dotted red;
+    border: 10px dotted yellow;
 }
 
 .four {
     display: inline-block;
+    background-color: rgb(255, 0, 225);
+    border: 10px groove white;
 }
